@@ -1,1 +1,1 @@
-# 7weeksofcode.github.io
+# 7 Weeks of Coding
